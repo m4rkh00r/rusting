@@ -1,4 +1,4 @@
-<h1 align="center">👋 Heyya! I'm Ahmed — A.K.A <b>m4rkh00r</b> 💥😎</h1>
+<h1 align="center">👋 Heyya! I'm Danish — A.K.A <b>m4rkh00r</b> 💥😎</h1>
 <h3 align="center">An InfoSec Nerd, a CTF Player and a Learner 🧠</h3>
 
 ---
@@ -23,15 +23,3 @@
 - 🧩 Exploring **malware analysis**, **reverse engineering**, and **system internals**  
 - ⚙️ Building tools, writing, and sharing knowledge  
 - 🎯 Motto: *Learn. Break. Build. Repeat.*
-
----
-
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rkh00r&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rkh00r&theme=tokyonight" height="150"/>
-</p>
-
----
-
-⭐️ From [m4rkh00r](https://github.com/m4rkh00r)
